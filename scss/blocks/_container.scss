@@ -1,0 +1,10 @@
+/* Defining the width of the container, the maximum width of the container, the left and right padding,
+and the left and right margin. */
+.container {
+  width: 100%;
+  max-width: 900px;
+  padding-left: 50px;
+  padding-right: 50px;
+  margin-left: auto;
+  margin-right: auto;
+}
