@@ -8,12 +8,12 @@
     {
       "format": "expanded",
       "extensionName": ".css",
-      "savePath": "/style"
+      "savePath": "/static/css"
     },
     {
       "format": "compressed",
       "extensionName": ".min.css",
-      "savePath": "/style"
+      "savePath": "/static/css"
     }
   ]
   
